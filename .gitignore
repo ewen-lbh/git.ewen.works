@@ -1,0 +1,12 @@
+
+# Universal Package Manager
+.upm/
+
+# dotENV file
+.env
+
+# node_modules
+node_modules/
+
+# portfoliodb
+.portfoliodb
